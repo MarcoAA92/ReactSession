@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Fang",
+      "lastName": "Yen",
+      "email": "fang.yen@gmail.com",
+      "image": "",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "firstName": "Marco",
+      "lastName": "Arredondo",
+      "email": "marco.arredondo@gmail.com",
+      "image": "",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "firstName": "Eli",
+      "lastName": "Arellano",
+      "email": "eli_arellano@gmail.com",
+      "image": "",
+      "isActive": true
+    }
+  ]
+}
